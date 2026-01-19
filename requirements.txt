@@ -8,5 +8,7 @@ seaborn
 scipy
 ipykernel
 librosa
+torchaudio
 # instala las librerías necesarias con: pip install -r requirements.txt
+
 
