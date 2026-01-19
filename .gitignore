@@ -1,0 +1,36 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de usuario
+*.env
+*.env.*
+
+# Archivos de datos temporales
+*.csv
+*.tsv
+*.log
+
+# Archivos de notebooks generados
+*.nbconvert.ipynb
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Otros archivos ocultos
+*.swp
+*.swo
+# Modelo con peso superior a 800 MB
+*.joblib
+*.ckpt
