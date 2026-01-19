@@ -9,6 +9,8 @@ scipy
 ipykernel
 librosa
 torchaudio
+speechbrain
 # instala las librerías necesarias con: pip install -r requirements.txt
+
 
 
