@@ -4,7 +4,7 @@ Debido a su peso >800MB se deben descargar los siguientes archivos desde los sig
 1. Colocarlo en la ruta principal: https://1drv.ms/u/c/486c58d5cece92c6/IQDPK9Vx_-E2RYD1GcZS9wPTAU_nCICmUIbBrmzM1fNw-Ho?e=tmqW2F
 2. Colocar la carpeta completa dentro de la carpeta pretrained_models : https://1drv.ms/f/c/486c58d5cece92c6/IgB_n7_r4NBFQYScGlCDXYX5AUWVrq_qOOvxno_kjkaA77U?e=HyOQir
 
-Debemos crear un ambiente venv con la version de Python 3.14 de preferencia 
+Debemos crear un ambiente venv con la version de Python 3.11.9 de preferencia 
 Antes de iniciar las pruebas se deben instalar las librerías con el comando: pip install -r requirements.txt 
 
 El primer archivo que vamos a ejecutar para obtener la plantilla biométrica con la cual hacemos todas las pruebas es biometria_vocal.py
